@@ -5,27 +5,30 @@ Contents
 1. Bar Plot
 2. Scatter Plot
 3. Box Plot
-4. Histogram
-5. Heatmaps
+4. pie plot
+5. count plot
+6. swarm plot
+8. Histogram
+9. Heatmaps
 And More...
 
-# Bar Plot
+## Bar Plot
 
 Description: Bar plots are useful for visualizing categorical data with rectangular bars representing the quantities or frequencies of each category.
 
-# Scatter Plot
+## Scatter Plot
 
 Description: Scatter plots display individual data points as markers, allowing for the visualization of relationships between two variables.
 
-# Box Plot
+## Box Plot
 
 Description: Box plots provide a graphical summary of the distribution of data, including median, quartiles, and outliers.
 
-# Histogram
+## Histogram
 
 Description: Histograms represent the distribution of a continuous variable by dividing the data into bins and displaying the frequency of each bin.
 
-# Heatmaps
+## Heatmaps
 
 Description: Heatmaps visualize data in a matrix format, where colors represent values, making it easy to identify patterns and trends.
 
